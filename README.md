@@ -1,7 +1,7 @@
 # Ktueues – Kotlin Coroutine Task Queues
 
 Light-weight, embeddable job-/task-queue abstraction written in Kotlin.  
-Ships with a production-ready Redis backend (powered by [Kreds](https://github.com/crackthecodeabhi/kreds)) and supports:
+Ships with a production-ready Redis backend and supports:
 
 * FIFO processing with multiple independent queues
 * Delayed jobs ("run after X minutes")
